@@ -1,0 +1,23 @@
+
+
+.navbar{
+    padding: 0px;
+    background-color: black !important;
+    
+}
+.navbar .container-fluid .nav-link{
+    color: aliceblue;
+}
+
+.navbar .container-fluid .nav-brand{
+    color: black;
+}
+
+.nav-button:hover {
+    background-color: aliceblue;
+    color: black;
+    border-color: aliceblue;
+}
+.nav-item > .nav-link :hover{
+color: aqua;
+}
